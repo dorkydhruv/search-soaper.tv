@@ -8,6 +8,8 @@ Might work on this again some other day.
 Using BeautifulSoup and tkinter
 
 ```bash
+git clone https://github.com/dorkydhruv/search-soaper.tv.git
+cd search-soaper.tv
 pip install beautifulsoup4 tk requests
 ```
 ## Run Locally
